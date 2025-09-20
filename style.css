@@ -1,0 +1,32 @@
+/* Style for header using ID */
+#page-title {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style for navigation links using class */
+.nav-link {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #3498db;
+}
+
+/* General page styling */
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  background-color: #f4f4f9;
+  padding: 0;
+}
+
+main {
+  padding: 20px;
+}
